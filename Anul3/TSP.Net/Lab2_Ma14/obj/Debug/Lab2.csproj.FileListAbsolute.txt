@@ -1,0 +1,11 @@
+D:\Facultate\Anul III S2\TSP\Lab1\Lab1\Lab2\bin\Debug\Lab2.exe.config
+D:\Facultate\Anul III S2\TSP\Lab1\Lab1\Lab2\bin\Debug\Lab2.exe
+D:\Facultate\Anul III S2\TSP\Lab1\Lab1\Lab2\bin\Debug\Lab2.pdb
+D:\Facultate\Anul III S2\TSP\Lab1\Lab1\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\Facultate\Anul III S2\TSP\Lab1\Lab1\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\Facultate\Anul III S2\TSP\Lab1\Lab1\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\Facultate\Anul III S2\TSP\Lab1\Lab1\Lab2\obj\Debug\Lab2.exe
+D:\Facultate\Anul III S2\TSP\Lab1\Lab1\Lab2\obj\Debug\Lab2.pdb
+D:\Facultate\Anul III S2\TSP\Lab1\Lab1\Lab2\obj\Debug\Lab2.Form1.resources
+D:\Facultate\Anul III S2\TSP\Lab1\Lab1\Lab2\bin\Debug\Elmah.dll
+D:\Facultate\Anul III S2\TSP\Lab1\Lab1\Lab2\obj\Debug\Lab2.csproj.CopyComplete
