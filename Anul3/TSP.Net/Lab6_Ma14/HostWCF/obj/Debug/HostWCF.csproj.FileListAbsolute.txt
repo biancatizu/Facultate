@@ -1,0 +1,14 @@
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\HostWCF\bin\Debug\HostWCF.exe.config
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\HostWCF\bin\Debug\HostWCF.exe
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\HostWCF\bin\Debug\HostWCF.pdb
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\HostWCF\bin\Debug\ObjectWCF.dll
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\HostWCF\bin\Debug\PostComment.dll
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\HostWCF\bin\Debug\EntityFramework.dll
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\HostWCF\bin\Debug\ObjectWCF.pdb
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\HostWCF\bin\Debug\PostComment.pdb
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\HostWCF\bin\Debug\PostComment.dll.config
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\HostWCF\bin\Debug\EntityFramework.xml
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\HostWCF\obj\Debug\HostWCF.csprojAssemblyReference.cache
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\HostWCF\obj\Debug\HostWCF.csproj.CopyComplete
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\HostWCF\obj\Debug\HostWCF.exe
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\HostWCF\obj\Debug\HostWCF.pdb

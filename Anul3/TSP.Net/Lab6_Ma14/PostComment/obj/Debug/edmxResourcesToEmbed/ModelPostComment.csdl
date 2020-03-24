@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="ModelPostComment" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="ModelPostCommentContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Post" EntityType="ModelPostComment.Post" />
+    <EntitySet Name="Comment" EntityType="ModelPostComment.Comments" />
+    <AssociationSet Name="PostComments" Association="ModelPostComment.PostComments">
+      <End Role="Post" EntitySet="Post" />
+      <End Role="Comments" EntitySet="Comment" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Post">
+    <Key>
+      <PropertyRef Name="PostId" />
+    </Key>
+    <Property Name="PostId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Description" Type="String" Nullable="false" />
+    <Property Name="Domain" Type="String" Nullable="false" />
+    <Property Name="Date" Type="DateTime" Nullable="false" />
+    <NavigationProperty Name="Comments" Relationship="ModelPostComment.PostComments" FromRole="Post" ToRole="Comments" />
+  </EntityType>
+  <EntityType Name="Comments">
+    <Key>
+      <PropertyRef Name="CommentId" />
+    </Key>
+    <Property Name="CommentId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Text" Type="String" Nullable="false" />
+    <NavigationProperty Name="Post" Relationship="ModelPostComment.PostComments" FromRole="Comments" ToRole="Post" />
+    <Property Name="PostPostId1" Nullable="false" Type="Int32" />
+  </EntityType>
+  <Association Name="PostComments">
+    <End Type="ModelPostComment.Post" Role="Post" Multiplicity="1" />
+    <End Type="ModelPostComment.Comments" Role="Comments" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Post">
+        <PropertyRef Name="PostId" />
+      </Principal>
+      <Dependent Role="Comments">
+        <PropertyRef Name="PostPostId1" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
