@@ -1,0 +1,11 @@
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\PostComment\obj\Debug\PostComment.csprojAssemblyReference.cache
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\PostComment\bin\Debug\PostComment.dll.config
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\PostComment\bin\Debug\PostComment.dll
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\PostComment\bin\Debug\PostComment.pdb
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\PostComment\bin\Debug\EntityFramework.dll
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\PostComment\bin\Debug\EntityFramework.SqlServer.dll
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\PostComment\bin\Debug\EntityFramework.xml
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\PostComment\bin\Debug\EntityFramework.SqlServer.xml
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\PostComment\obj\Debug\PostComment.csproj.CopyComplete
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\PostComment\obj\Debug\PostComment.dll
+D:\Facultate\Anul3\Semestrul2\TSP .NET\Lab6\PostComment\obj\Debug\PostComment.pdb

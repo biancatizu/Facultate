@@ -1,0 +1,17 @@
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\GrpcGreeterClient\bin\Debug\netcoreapp3.0\GrpcGreeterClient.exe
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\GrpcGreeterClient\obj\Debug\netcoreapp3.0\GrpcGreeterClient.AssemblyInfoInputs.cache
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\GrpcGreeterClient\obj\Debug\netcoreapp3.0\GrpcGreeterClient.AssemblyInfo.cs
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\GrpcGreeterClient\bin\Debug\netcoreapp3.0\Grpc.Core.Api.dll
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\GrpcGreeterClient\bin\Debug\netcoreapp3.0\Grpc.Net.Client.dll
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\GrpcGreeterClient\bin\Debug\netcoreapp3.0\Grpc.Net.Common.dll
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\GrpcGreeterClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\GrpcGreeterClient\obj\Debug\netcoreapp3.0\GrpcGreeterClient.csprojAssemblyReference.cache
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\GrpcGreeterClient\obj\Debug\netcoreapp3.0\GrpcGreeterClient.csproj.CopyComplete
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\GrpcGreeterClient\bin\Debug\netcoreapp3.0\Google.Protobuf.dll
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\GrpcGreeterClient\bin\Debug\netcoreapp3.0\GrpcGreeterClient.deps.json
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\GrpcGreeterClient\bin\Debug\netcoreapp3.0\GrpcGreeterClient.runtimeconfig.json
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\GrpcGreeterClient\bin\Debug\netcoreapp3.0\GrpcGreeterClient.runtimeconfig.dev.json
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\GrpcGreeterClient\bin\Debug\netcoreapp3.0\GrpcGreeterClient.dll
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\GrpcGreeterClient\bin\Debug\netcoreapp3.0\GrpcGreeterClient.pdb
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\GrpcGreeterClient\obj\Debug\netcoreapp3.0\GrpcGreeterClient.dll
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\GrpcGreeterClient\obj\Debug\netcoreapp3.0\GrpcGreeterClient.pdb
