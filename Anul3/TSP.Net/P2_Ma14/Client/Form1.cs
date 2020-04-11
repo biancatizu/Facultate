@@ -17,8 +17,7 @@ namespace MyPhotosWForms
         int editId = -1;
         string path = "";
         Boolean isEdit = false;
-        MediaController ctrl = new MediaController();
-        PersonsController personctrl = new PersonsController();
+        MyPhotosServiceClient ctrl = new MyPhotosServiceClient();
         public Form1()
         {
             InitializeComponent();
@@ -27,14 +26,30 @@ namespace MyPhotosWForms
 
         private void setDatasource()
         {
-            List<Media> allMedia = ctrl.getAllMedia().FindAll(media => !media.path.StartsWith("DELETED"));            
-            mediaList.DataSource = allMedia;
+            MyPhotosProject.Media[] allMedia = ctrl.getAllMedia();
+            List<Media> filterMedia=new List<Media>();
+            foreach(Media media in allMedia)
+            {
+                if (!media.path.StartsWith("DELETED"))
+                {
+                    filterMedia.Add(media);
+                }
+            }          
+            mediaList.DataSource = filterMedia;
         }
 
         private void setDataSourceDeletedMedia()
         {
-            List<Media> allMedia = ctrl.getAllMedia().FindAll(media => media.path.StartsWith("DELETED"));
-            mediaList.DataSource = allMedia;
+            MyPhotosProject.Media[] allMedia = ctrl.getAllMedia();
+            List<Media> filterMedia = new List<Media>();
+            foreach (Media media in allMedia)
+            {
+                if (media.path.StartsWith("DELETED"))
+                {
+                    filterMedia.Add(media);
+                }
+            }
+            mediaList.DataSource = filterMedia;
         }
 
         //SAVE BUTTON FOR ADD/EDIT
@@ -183,7 +198,7 @@ namespace MyPhotosWForms
                 Media selectedMedia = mediaList.SelectedItem as Media;
                 Persons person = new Persons();
                 person.personName = tagPersonInput.Text;
-                person = this.personctrl.createPerson(person);
+                person = this.ctrl.createPerson(person);
                 this.ctrl.addPersonToMedia(person, selectedMedia.Id);
                 tagPersonInput.Text = "";
                 confirmTag.Checked = false;
