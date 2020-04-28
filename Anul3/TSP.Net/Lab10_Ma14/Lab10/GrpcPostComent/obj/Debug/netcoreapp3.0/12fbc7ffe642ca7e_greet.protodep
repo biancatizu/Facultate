@@ -1,0 +1,3 @@
+obj\Debug\netcoreapp3.0/Greet.cs \
+obj\Debug\netcoreapp3.0/GreetGrpc.cs: C:/Users/uic34599/.nuget/packages/grpc.tools/2.28.1/build/native/include/google/protobuf/timestamp.proto\
+ Protos/greet.proto

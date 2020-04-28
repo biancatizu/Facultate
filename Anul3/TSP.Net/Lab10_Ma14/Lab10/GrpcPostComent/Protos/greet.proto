@@ -1,0 +1,61 @@
+syntax = "proto3";
+import "google/protobuf/timestamp.proto";
+
+option csharp_namespace = "GrpcPostComent";
+
+package Greet;
+
+// The greeting service definition.
+service Greeter {
+  rpc AddPost(GetPostObject) returns (GetBoolResult);
+  rpc UpdatePost(GetPostObject) returns (GetPostObjectResult);
+  rpc DeletePost(GetId) returns (GetPostIdResult);
+  rpc GetPostById(GetId) returns (GetPostObjectResult);
+
+  rpc AddComment(GetCommentObject) returns (GetBoolResult);
+  rpc GetCommentById(GetId) returns (GetCommentObjectResult);
+  rpc UpdateComment(GetCommentObject) returns (GetCommentObjectResult);
+}
+
+message Post{
+	int32 PostId=1;
+	string Description=2;
+	string Domain=3;
+	google.protobuf.Timestamp Date=4;
+	repeated Comment Comments=5;
+}
+
+message Comment{
+	int32 CommentId=1;
+	string Text=2;
+	int32 PostPostId=3;
+	Post Post=4;
+}
+
+message GetPostObject{
+	Post post=1;
+}
+
+message GetCommentObject{
+	Comment comment=1;
+}
+
+message GetId{
+	int32 id=1;
+}
+
+message GetBoolResult{
+	bool bResul=1;
+}
+
+message GetPostObjectResult{
+	Post pResult=1;
+}
+
+message GetCommentObjectResult{
+	Comment cResult=1;
+}
+
+message GetPostIdResult{
+	int32 id=1;
+}
