@@ -1,0 +1,12 @@
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\ASP_Net_Core_WCF_EF_Razor_Pages\PostComment\bin\Debug\PostComment.dll.config
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\ASP_Net_Core_WCF_EF_Razor_Pages\PostComment\bin\Debug\PostComment.dll
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\ASP_Net_Core_WCF_EF_Razor_Pages\PostComment\bin\Debug\PostComment.pdb
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\ASP_Net_Core_WCF_EF_Razor_Pages\PostComment\bin\Debug\EntityFramework.dll
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\ASP_Net_Core_WCF_EF_Razor_Pages\PostComment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\ASP_Net_Core_WCF_EF_Razor_Pages\PostComment\bin\Debug\EntityFramework.xml
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\ASP_Net_Core_WCF_EF_Razor_Pages\PostComment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\ASP_Net_Core_WCF_EF_Razor_Pages\PostComment\obj\Debug\PostComment.csprojAssemblyReference.cache
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\ASP_Net_Core_WCF_EF_Razor_Pages\PostComment\obj\Debug\PostComment.csproj.CopyComplete
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\ASP_Net_Core_WCF_EF_Razor_Pages\PostComment\obj\Debug\PostComment.dll
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\ASP_Net_Core_WCF_EF_Razor_Pages\PostComment\obj\Debug\PostComment.pdb
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\ASP_Net_Core_WCF_EF_Razor_Pages\PostComment\obj\Debug\PostComment.csproj.CoreCompileInputs.cache
