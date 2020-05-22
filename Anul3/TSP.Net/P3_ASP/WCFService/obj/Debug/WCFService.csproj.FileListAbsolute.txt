@@ -1,0 +1,15 @@
+D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosWCF\WCFService\obj\Debug\WCFService.csprojAssemblyReference.cache
+D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosWCF\WCFService\bin\Debug\WCFService.dll
+D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosWCF\WCFService\bin\Debug\WCFService.pdb
+D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosWCF\WCFService\bin\Debug\MyPhotosProject.exe
+D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosWCF\WCFService\bin\Debug\System.Management.Automation.dll
+D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosWCF\WCFService\bin\Debug\WindowsBase.dll
+D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosWCF\WCFService\bin\Debug\EntityFramework.dll
+D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosWCF\WCFService\bin\Debug\Microsoft.Management.Infrastructure.dll
+D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosWCF\WCFService\bin\Debug\MyPhotosProject.pdb
+D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosWCF\WCFService\bin\Debug\MyPhotosProject.exe.config
+D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosWCF\WCFService\bin\Debug\System.Management.Automation.xml
+D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosWCF\WCFService\bin\Debug\EntityFramework.xml
+D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosWCF\WCFService\obj\Debug\WCFService.csproj.CopyComplete
+D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosWCF\WCFService\obj\Debug\WCFService.dll
+D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosWCF\WCFService\obj\Debug\WCFService.pdb
