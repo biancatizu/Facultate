@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosProject\ModelMyPhotos.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\MyPhotosWCF\MyPhotosWCF\MyPhotosProject\ModelMyPhotos.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

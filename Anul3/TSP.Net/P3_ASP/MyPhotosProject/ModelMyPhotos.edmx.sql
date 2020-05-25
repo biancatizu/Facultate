@@ -2,8 +2,8 @@
 -- --------------------------------------------------
 -- Entity Designer DDL Script for SQL Server 2005, 2008, 2012 and Azure
 -- --------------------------------------------------
--- Date Created: 03/16/2020 20:13:12
--- Generated from EDMX file: D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosProject\ModelMyPhotos.edmx
+-- Date Created: 05/21/2020 16:23:51
+-- Generated from EDMX file: C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\MyPhotosWCF\MyPhotosWCF\MyPhotosProject\ModelMyPhotos.edmx
 -- --------------------------------------------------
 
 SET QUOTED_IDENTIFIER OFF;
@@ -17,6 +17,12 @@ GO
 -- Dropping existing FOREIGN KEY constraints
 -- --------------------------------------------------
 
+IF OBJECT_ID(N'[dbo].[FK_PersonsMediaMedia]', 'F') IS NOT NULL
+    ALTER TABLE [dbo].[PersonsMedias] DROP CONSTRAINT [FK_PersonsMediaMedia];
+GO
+IF OBJECT_ID(N'[dbo].[FK_PersonsMediaPersons]', 'F') IS NOT NULL
+    ALTER TABLE [dbo].[PersonsMedias] DROP CONSTRAINT [FK_PersonsMediaPersons];
+GO
 
 -- --------------------------------------------------
 -- Dropping existing tables
@@ -27,6 +33,9 @@ IF OBJECT_ID(N'[dbo].[Media]', 'U') IS NOT NULL
 GO
 IF OBJECT_ID(N'[dbo].[Persons]', 'U') IS NOT NULL
     DROP TABLE [dbo].[Persons];
+GO
+IF OBJECT_ID(N'[dbo].[PersonsMedias]', 'U') IS NOT NULL
+    DROP TABLE [dbo].[PersonsMedias];
 GO
 
 -- --------------------------------------------------
@@ -57,7 +66,7 @@ GO
 CREATE TABLE [dbo].[PersonsMedias] (
     [MediaId] int  NOT NULL,
     [PersonsId] int  NOT NULL,
-    [Id] int NOT NULL
+    [Id] int  NOT NULL
 );
 GO
 

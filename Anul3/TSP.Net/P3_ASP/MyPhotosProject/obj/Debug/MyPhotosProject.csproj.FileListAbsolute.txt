@@ -20,3 +20,15 @@ D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosWCF\MyPhotosProject\obj\
 D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosWCF\MyPhotosProject\obj\Debug\MyPhotosProject.csproj.CopyComplete
 D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosWCF\MyPhotosProject\obj\Debug\MyPhotosProject.exe
 D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosWCF\MyPhotosProject\obj\Debug\MyPhotosProject.pdb
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\MyPhotosWCF\MyPhotosWCF\MyPhotosProject\bin\Debug\MyPhotosProject.exe.config
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\MyPhotosWCF\MyPhotosWCF\MyPhotosProject\bin\Debug\MyPhotosProject.exe
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\MyPhotosWCF\MyPhotosWCF\MyPhotosProject\bin\Debug\MyPhotosProject.pdb
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\MyPhotosWCF\MyPhotosWCF\MyPhotosProject\bin\Debug\EntityFramework.dll
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\MyPhotosWCF\MyPhotosWCF\MyPhotosProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\MyPhotosWCF\MyPhotosWCF\MyPhotosProject\bin\Debug\EntityFramework.xml
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\MyPhotosWCF\MyPhotosWCF\MyPhotosProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\MyPhotosWCF\MyPhotosWCF\MyPhotosProject\obj\Debug\MyPhotosProject.csprojAssemblyReference.cache
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\MyPhotosWCF\MyPhotosWCF\MyPhotosProject\obj\Debug\MyPhotosProject.csproj.CoreCompileInputs.cache
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\MyPhotosWCF\MyPhotosWCF\MyPhotosProject\obj\Debug\MyPhotosProject.csproj.CopyComplete
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\MyPhotosWCF\MyPhotosWCF\MyPhotosProject\obj\Debug\MyPhotosProject.exe
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\MyPhotosWCF\MyPhotosWCF\MyPhotosProject\obj\Debug\MyPhotosProject.pdb

@@ -32,3 +32,10 @@ D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosWCF\MyPhotosWForms\obj\D
 D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosWCF\MyPhotosWForms\obj\Debug\MyPhotosWForms.csproj.CopyComplete
 D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosWCF\MyPhotosWForms\obj\Debug\MyPhotosWForms.exe
 D:\Facultate\Anul3\Semestrul2\TSP .NET\MyPhotos\MyPhotosWCF\MyPhotosWForms\obj\Debug\MyPhotosWForms.pdb
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\MyPhotosWCF\MyPhotosWCF\MyPhotosWForms\obj\Debug\MyPhotosWForms.csprojAssemblyReference.cache
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\MyPhotosWCF\MyPhotosWCF\MyPhotosWForms\obj\Debug\MyPhotosWForms.Form1.resources
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\MyPhotosWCF\MyPhotosWCF\MyPhotosWForms\obj\Debug\MyPhotosWForms.Properties.Resources.resources
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\MyPhotosWCF\MyPhotosWCF\MyPhotosWForms\obj\Debug\MyPhotosWForms.csproj.GenerateResource.cache
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\MyPhotosWCF\MyPhotosWCF\MyPhotosWForms\obj\Debug\MyPhotosWForms.csproj.CoreCompileInputs.cache
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\MyPhotosWCF\MyPhotosWCF\MyPhotosWForms\obj\Debug\MyPhotosWForms.exe
+C:\Users\uic34599\Documents\Others\Facultate\Sem2\TSP .NET\MyPhotosWCF\MyPhotosWCF\MyPhotosWForms\obj\Debug\MyPhotosWForms.pdb

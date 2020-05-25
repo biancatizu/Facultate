@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostWCF", "..\HostWCF\HostW
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPhotosWForms", "..\MyPhotosWForms\MyPhotosWForms.csproj", "{EE7952F5-FCCD-43A2-B3CA-6E96D6DBF955}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPhotosWebApp", "..\MyPhotosWebApp\MyPhotosWebApp.csproj", "{71C65692-0C1C-49FE-8BD7-1962CD642B41}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPhotosASP", "..\MyPhotosASP\MyPhotosASP.csproj", "{9B744BEB-9625-4419-AD31-92D1260FE7F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{EE7952F5-FCCD-43A2-B3CA-6E96D6DBF955}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE7952F5-FCCD-43A2-B3CA-6E96D6DBF955}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE7952F5-FCCD-43A2-B3CA-6E96D6DBF955}.Release|Any CPU.Build.0 = Release|Any CPU
-		{71C65692-0C1C-49FE-8BD7-1962CD642B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{71C65692-0C1C-49FE-8BD7-1962CD642B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{71C65692-0C1C-49FE-8BD7-1962CD642B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{71C65692-0C1C-49FE-8BD7-1962CD642B41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B744BEB-9625-4419-AD31-92D1260FE7F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B744BEB-9625-4419-AD31-92D1260FE7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B744BEB-9625-4419-AD31-92D1260FE7F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B744BEB-9625-4419-AD31-92D1260FE7F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

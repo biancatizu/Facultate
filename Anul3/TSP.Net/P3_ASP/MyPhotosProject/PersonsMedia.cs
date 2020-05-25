@@ -11,21 +11,14 @@ namespace MyPhotosProject
 {
     using System;
     using System.Collections.Generic;
-    using System.Runtime.Serialization;
-
-    [DataContract(IsReference = true)]
+    
     public partial class PersonsMedia
     {
-        [DataMember]
         public int MediaId { get; set; }
-        [DataMember]
         public int PersonsId { get; set; }
-        [DataMember]
         public int Id { get; set; }
-
-        [DataMember]
+    
         public virtual Media Media { get; set; }
-        [DataMember]
         public virtual Persons Person { get; set; }
     }
 }
